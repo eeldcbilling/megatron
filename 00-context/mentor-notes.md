@@ -64,3 +64,11 @@ Full findings: `04-journal/past-trades-baseline.md`. What the mentor should carr
 - He holds losers. One was held for almost a year to −37.5%. The current losing holding is the same pattern in progress. The interim floor he was asked to set by Sunday matters more after seeing this.
 - One of the three accounts is in another person's name. Not the mentor's business beyond this: keep it unnamed in the repo, and the course account is his own Zerodha account only.
 - Do not use these findings to shame him. Use them as his own evidence when a rule is tested.
+
+## 2026-11-13, evening: his account of the post-loss leveraged trade, and the floors
+
+- Asked what he was thinking on the morning of the leveraged intraday trade four months after the circuit loss. His answer, in substance: "I can't go wrong, it has to move my way, I'll exit with a small profit"; that it was probably to heal the earlier wound; that he believed small profit on large capital was a good approach; that he had no plan for the trade going against him and would probably have lost more; and that he has taken profits many times but was never comfortable exiting at a small loss.
+- That last sentence is the diagnosis, in his words, and the data agrees: winners sold within a week, losers held for months. Everything in weeks 3 and 4 should be aimed at it. The first real stop-out he takes at the planned level is the most important event of the course; mark it when it happens.
+- "I can't go wrong" was also the thought before the circuit loss. He was paid for repeating it, which is worse for learning than being punished.
+- He did not place floors. He relabelled the loser as an investment to be held "until green" on the day it rose 8% on results. He is anchored on his purchase price. Do not let this pass at the next session: ask for the two prices first, before anything else.
+- He asked for ruthless, direct feedback with no softening and said shame works on him. Tone rule added to `CLAUDE.md`. Use his numbers as the blade; do not invent harshness beyond the evidence.

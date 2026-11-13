@@ -1,0 +1,6 @@
+<!-- session: 2026-11-13-session-01 | time: 2026-11-13 17:00 IST -->
+You don't need to explain a observation as judgement or shame. I want a ruthless answer. It works in a better way for me . This is what I need a clear mirror that's ruthless dosrnt hold back and shoot straight not give an explaination that I am not to ashame you and all. Be direct. Shaming or being direct  triggers a learning point. I respond well to it. Now on questions -
+I was thinking the same I can't go wrong the trade has to move in my direction and this time I will exit with small profit. Which I did. May be it was something to mentally heal my apollo wound. I used to think with small profit on high capital would be better. But I didn't planned it properly. Didn't plan if the trade went other way when to exit. Probably I would have lost more if the trade went opposite. Coz I took out profit many times but getting out on small loss that I was not comfortable with.
+No floor on amber and bell. Riding the profit on bell as it can be concidered as investment.
+Amber I am thinking to wait until it comes in green first uptil then take it as investment as the results announced yesterday has shown a good movement today. Approx 8 percent today.
+Also what did you analysed from all my trades.
