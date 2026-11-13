@@ -80,3 +80,9 @@ Full findings: `04-journal/past-trades-baseline.md`. What the mentor should carr
 - For the loser his words were "hoping it climbs back" so that the loss "limits" to a small figure. He is planning to sell into strength to book a smaller loss, with nothing underneath. Anchored on purchase price; the word to listen for is "hope".
 - He engages when given a method. He resists when given a demand without one. Lead with the method next time.
 - No levels were given by the mentor. He is to bring two numbers with the reasoning by Sunday 15 Nov; check the reasoning, not the number.
+
+## 2026-11-14, sources question
+
+- He asked whether sources would be added to the roadmap or given along the way. They were already in the week files and `resources.md`. So by early 14 Nov he had read the roadmap but not opened the week files ("Do next" item 2). Check at the next session whether he has read `rules.md` and week 1.
+- Fix made: sources column in the roadmap plus a pointer section. Owed by the mentor: before he starts each week, verify and pin exact video links in that week's file. Week 1 is due before Monday 16 Nov or in the first Megatron session of that week.
+- Still pending from 13 Nov: the two holdings floors with reasoning, due Sunday 15 Nov.

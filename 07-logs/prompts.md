@@ -190,3 +190,9 @@ Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 
 > See this is why I am trying to start a structured learning. Thanks now I Wil open the charts on system Mar it and then revert back to you with screenshot and reasoning.
+
+## P020 · 2026-11-14 04:31 IST
+
+Session: [2026-11-14-session-01](chats/2026-11-14-session-01.md)
+
+> In Megatron In road map you have only mentioned objective not the video lecture source or reading  material so will you give it to me as we progress or would you update the road map with the source material / reading source too

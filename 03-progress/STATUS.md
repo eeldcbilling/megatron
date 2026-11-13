@@ -1,6 +1,6 @@
 # Status
 
-**Last updated:** 13 Nov 2026 (planning session 1; repo public, masked, continuity rule added)
+**Last updated:** 14 Nov 2026 (sources column added to the roadmap)
 
 | | |
 |---|---|
@@ -19,4 +19,4 @@
 
 ## Waiting on the mentor
 
-Nothing.
+Pin exact video links for week 1 in `02-curriculum/week-01.md` before study starts on Monday 16 Nov.

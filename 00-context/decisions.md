@@ -21,3 +21,4 @@ Newest at the bottom. Each entry: date, decision, who decided, why.
 | 2026-11-13 | Videos may be in Hindi or English. | Learner | No preference |
 | 2026-11-13 | The course capital figure stays visible in the public repo. | Learner | No issue with it being public |
 | 2026-11-13 | Existing holdings stay outside the course account and outside the course rules. | Mentor | They predate the course; the mentor asked for an exit condition for each |
+| 2026-11-14 | The roadmap carries a "Main sources" column; day-level sources stay in the week files and `resources.md`. The mentor pins exact video links in the week file at the start of each week. | Learner asked, mentor decided | He looked for sources in the roadmap and did not find them; search phrases alone are friction on a study day |
