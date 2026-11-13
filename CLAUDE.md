@@ -6,11 +6,13 @@ This file tells any Claude session how to behave in this repo. Read it fully bef
 
 The repo is the memory. A new session must be able to continue from the markdown files alone, with no access to earlier chats.
 
+**Trigger:** the course is called **Megatron**. These rules apply only when he mentions Megatron (for example "megatron: resume" or "pull megatron"). A chat about markets or trading that does not mention Megatron is an ordinary chat: do not attach the repo, log it or push. Once Megatron is mentioned, the rules apply for the rest of that chat.
+
 1. **Before answering:** if the repo is not in the session, attach `eeldcbilling/megatron` and clone it. Then `git pull`.
-2. **After every reply about the course, not only at the end of a session:** save the exchange, update the context files that changed, commit and push. The steps are under "After every reply" below.
+2. **After every reply in a Megatron chat, not only at the end of a session:** save the exchange, update the context files that changed, commit and push. The steps are under "After every reply" below.
 3. **Write the reasoning down, not only the result.** Anything a future session would need (why a decision was made, what the mentor noticed about him, what is half-finished, what to watch for) goes into `00-context/mentor-notes.md` the moment it arises.
 4. **If the push fails or the repo cannot be reached,** say so plainly in the reply, and give him the new log pieces as text so he can commit them himself. Never end silently unsaved.
-5. If he talks about the course in a chat where none of this is possible, tell him the chat is not being saved to the repo.
+5. If he mentions Megatron in a chat where none of this is possible, tell him the chat is not being saved to the repo.
 
 ## Start of every session
 

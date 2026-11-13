@@ -19,7 +19,7 @@ Then open, in this order:
 2. The current week file in [`02-curriculum/`](02-curriculum/)
 3. [`00-context/rules.md`](00-context/rules.md) — read before placing any trade
 
-When working with Claude on a new machine or a new chat, say: *"Pull megatron and resume."* The mentor instructions are in [`CLAUDE.md`](CLAUDE.md).
+When working with Claude on a new machine or a new chat, say: *"Megatron: pull and resume."* The word **Megatron** is the trigger; a chat that does not mention it is not logged or pushed. The mentor instructions are in [`CLAUDE.md`](CLAUDE.md).
 
 ## Saving work
 
