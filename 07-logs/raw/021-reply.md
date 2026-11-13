@@ -1,0 +1,2 @@
+<!-- session: 2026-11-14-session-01 | time: 2026-11-14 04:55 IST -->
+*Summary.* Accepted that he is mid-way through an overview read, and that the roadmap not naming sources was a real gap in the page. Gave him the reading order for the rest: `rules.md`, week 1, `resources.md`, `holdings-review.md`. Said to come back with anything he disagrees with in the rules, and that the two holdings floors are still due Sunday 15 Nov.
