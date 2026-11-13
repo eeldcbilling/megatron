@@ -47,7 +47,8 @@ Folder: `05-labs/lab04/`
 3. Output a trade list (entry date, exit date, R result) and these statistics: number of trades, win rate, average win and loss in R, expectancy in R, largest drawdown in R, longest losing streak.
 4. Change one parameter (say the EMA length from 20 to 15 and 25). If the results swing wildly, write down what that suggests.
 5. Split the data: design on the first three years, then run once on the last two. Compare.
-6. Write in `notes.md`: is there evidence of an edge, and how much would you trust it?
+6. Run it once more with defence stocks removed from the universe. Your own past profit depended on that sector (see `04-journal/past-trades-baseline.md`); does the system?
+7. Write in `notes.md`: is there evidence of an edge, and how much would you trust it?
 
 Known weakness to state honestly in your notes: testing on today's index members only is survivorship bias.
 

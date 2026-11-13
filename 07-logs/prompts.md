@@ -153,3 +153,11 @@ Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 > *(Sent with a phone screenshot of Zerodha Console, Downloads page, showing the statement types: contract note, margin statement, annual global statement, invoice, ELSS statement, dividend statement. The image is not stored in the repo.)*
 >
 > What to give you for the past trades from zerodha?
+
+## P015 · 2026-11-13 16:46 IST
+
+Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
+
+> *(Sent with ten attached files: seven tradebook CSV files from two accounts with one broker and three order-history spreadsheets from a third account. File names carry client IDs and are not recorded. The files are not stored in the repo.)*
+>
+> These are all analyse

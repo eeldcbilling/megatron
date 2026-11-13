@@ -53,3 +53,14 @@ The mentor's running memory. Newest entries at the bottom of each section. A new
 
 - He asked for a blank slate in the morning and by the afternoon offered his Zerodha trade history. Take it: three years of his own trades is better teaching material than any textbook example, and it gives a baseline to compare the course journal against.
 - When the tradebook arrives: compute holding period of winners against losers, how many trades had any exit before the stop-out, concentration by sector, and what the result looks like without the defence stocks. Store only percentages and counts here. Never commit the raw files (public repo, client ID inside).
+
+## 2026-11-13, after analysing his trade history
+
+Full findings: `04-journal/past-trades-baseline.md`. What the mentor should carry:
+
+- His self-description ("all baseless, mostly defence") was accurate about the source of profit and too harsh about the shape: his delivery trades had winners about 2.5 times the losers at a 56% win rate. Tell him that; he has something to build on.
+- His self-description was wrong in two places. (1) He says he has suppressed greed. The record shows a position of more than three times his capital opened intraday four months after the circuit loss, on the morning he closed a losing trade. (2) He described the big short as a single act of stupidity. It was the third large intraday short in the same stock in fifteen months, each larger relative to the last. Treat revenge and escalation after a loss as his main live risk.
+- He remembered the cost of his recent large winner as much lower than the files show, which made the gain look about twice its real size. Not dishonesty; memory flatters. It is why the journal has to be written at the time.
+- He holds losers. One was held for almost a year to −37.5%. The current losing holding is the same pattern in progress. The interim floor he was asked to set by Sunday matters more after seeing this.
+- One of the three accounts is in another person's name. Not the mentor's business beyond this: keep it unnamed in the repo, and the course account is his own Zerodha account only.
+- Do not use these findings to shame him. Use them as his own evidence when a rule is tested.
