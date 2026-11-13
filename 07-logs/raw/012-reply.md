@@ -1,0 +1,2 @@
+<!-- session: 2026-11-13-session-01 | time: 2026-11-13 16:00 IST -->
+*Summary.* Opus 5.5 at medium effort is enough for the day-to-day work (teaching a concept, grading answers, reviewing lab code, logging), because the context lives in the repo and not in the model. Suggested a stronger model or higher effort only for the heavier sessions: gate exams, monthly reviews, debugging a backtest, and the week-12 decision. Any model must follow `CLAUDE.md` and pull first.
