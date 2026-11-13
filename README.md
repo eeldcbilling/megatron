@@ -21,6 +21,15 @@ Then open, in this order:
 
 When working with Claude on a new machine or a new chat, say: *"Megatron: pull and resume."* The word **Megatron** is the trigger; a chat that does not mention it is not logged or pushed. The mentor instructions are in [`CLAUDE.md`](CLAUDE.md).
 
+## Which Claude model to use
+
+| Session | Model |
+|---|---|
+| Daily work: a concept, grading answers, lab code review, checking a trade plan, logging | Opus 5.5, medium effort |
+| Gate exams, monthly reviews, debugging a suspicious backtest, the week-12 decision | Fable, or Opus at higher effort |
+
+If a session grades shallowly or agrees too easily, switch up for that session. Whatever the model, start with "Megatron: pull and resume".
+
 ## Saving work
 
 Claude saves and pushes after every reply (the continuity rule in [`CLAUDE.md`](CLAUDE.md)). For your own work (answers, labs, journal):

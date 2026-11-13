@@ -139,3 +139,9 @@ Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 
 > For this whole plan will we need fable or opus 5.5 medium will work also?
+
+## P013 · 2026-11-13 15:59 IST
+
+Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
+
+> Ok keep this in memory also
