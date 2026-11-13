@@ -105,3 +105,9 @@ Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 
 > ok we name the course as megatron and only trigger if i mention megatron reference
+
+## P009 · 2026-11-13 13:46 IST
+
+Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
+
+> done so what do need answered for next session

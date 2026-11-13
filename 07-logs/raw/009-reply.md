@@ -1,0 +1,2 @@
+<!-- session: 2026-11-13-session-01 | time: 2026-11-13 13:48 IST -->
+*Summary.* Listed what is needed before Monday 16 Nov: the four questions in `00-context/open-questions.md` (accept the rules or name the one in dispute; the week-0 answer on the worst loss; current holdings; which broker account is the course account), plus three quick ones (video language, whether the course capital figure stays visible, whether GitHub Pages is on and working).

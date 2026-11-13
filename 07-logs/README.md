@@ -2,7 +2,7 @@
 
 | Session | Pieces |
 |---|---|
-| [2026-11-13-session-01](chats/2026-11-13-session-01.md) | 16 |
+| [2026-11-13-session-01](chats/2026-11-13-session-01.md) | 18 |
 
 All prompts in one place: [prompts.md](prompts.md).
 
