@@ -4,7 +4,7 @@ Questions the mentor needs answered. Move each one to [`decisions.md`](decisions
 
 ## Open now
 
-1. **Existing holdings (asked 13 Nov).** He holds two stocks outside the course account, in one sector-heavy pair, worth several times the course capital at cost. For each: is it an investment or a trade? What price or event would make you sell? Write one line each. The mentor is not asking him to sell anything; a position with no exit condition is the same structural problem as the worst loss, only slower.
+1. **Existing holdings.** Answered 13 Nov: both began as short-term swings and became investments through indecision; he has no exit condition and says he is clueless what to do. Now a task, not a question: steps 1 and 2 of [`../04-journal/holdings-review.md`](../04-journal/holdings-review.md) by Sunday 15 Nov, step 3 at the end of week 2.
 2. **Week-0 answer, second attempt.** The first answer described the mistake in the entry. Name the rule about *size* and the rule about *instrument* that would have capped the loss even if the idea had been just as bad. See the evaluation in `06-answers/week-00.md`.
 3. **Read `rules.md` in full.** He accepted the three main points on 13 Nov before reading the file. Confirm after reading, or name any rule he disputes.
 

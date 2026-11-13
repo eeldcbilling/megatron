@@ -126,3 +126,10 @@ Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 > 6- public no issue
 > 7 everything is working fine 
 > rest for md files i will read today later how you designed the course and any modification
+
+## P011 · 2026-11-13 14:08 IST
+
+Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
+
+> 1. Is it an investment or a trade? - it was a swing with a short term in mind but bel kept gaining and amber kept loosing . in both scenario now indecision has made both investment . now and clueless what to do. 
+> 2. What price or event would make you sell? dont know

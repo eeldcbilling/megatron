@@ -25,6 +25,8 @@
 
 2:30 prediction log continues. From this week, add the reason in structural terms (trend, level, last hour's swings).
 
+Holdings: on Saturday, do step 3 of `04-journal/holdings-review.md`, replacing the interim floors with levels from the weekly charts.
+
 Paper picks: by Friday, write 3 paper swing ideas in the journal with entry, stop and target. They are graded on reasoning, not outcome.
 
 ## Lab 2: swings and trend by rule
@@ -60,5 +62,6 @@ Answers in `06-answers/week-02.md`.
 - [ ] Lab 2 pushed
 - [ ] 10 answers pushed
 - [ ] 3 paper swing ideas written
+- [ ] Holdings review step 3 done
 - [ ] 5 predictions logged
 - [ ] Weekly review written

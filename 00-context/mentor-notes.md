@@ -40,3 +40,11 @@ The mentor's running memory. Newest entries at the bottom of each section. A new
 - His holdings outside the course are concentrated in two stocks and are several times the course capital at cost. The course rules protect the small account while the large exposure sits unmanaged. Not the course's business to run, but he has been asked for an exit condition for each. If he has none, that is the first real conversation about risk. Do not tell him to sell; ask what would make him sell.
 - He accepted the three disputed rules in one line, before reading the files. Fast agreement is not the same as acceptance. Re-confirm after he reads `rules.md`, and expect the real test in week 3 when he wants to trade and the rule says wait.
 - He will read the course files later today and may ask for modifications. Changes to study content are welcome; changes to risk rules go through `decisions.md` with a reason.
+
+## 2026-11-13, holdings
+
+- Both holdings started as short-term swings. One kept rising, one kept falling, and in both cases he did nothing; "indecision has made both investment". He has no exit for either and said so plainly. He also recently sold a third stock at about double his cost, so he can take a profit; what he has not shown is the ability to take a loss.
+- The mentor gave no buy, hold or sell view and must not. The approach: (1) an interim floor he chooses himself, as a cap on damage, by Sunday; (2) the zero-based question (would I buy this today at this size?); (3) a structural exit from the weekly chart at the end of week 2, once he can read one; (4) a fixed label, investment or trade.
+- Reason for the interim floor: a 10% further fall in the losing holding alone is roughly 30% of the course capital. Asking him to protect the small account to 1% while this sits open would be teaching theatre.
+- Watch for: setting the floor so far away it can never trigger, or not placing the order. Either one is the same indecision. Ask to see the level, not the intention.
+- These two stocks are now his best teaching material for week 2. Use his own charts there.

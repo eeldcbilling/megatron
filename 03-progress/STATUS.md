@@ -14,7 +14,8 @@
 1. On each machine: `git clone https://github.com/eeldcbilling/megatron.git` once, then `git pull` at the start of every session.
 2. Read the course files, especially [`../00-context/rules.md`](../00-context/rules.md), and say if anything should change.
 3. Answer the three items under "Open now" in [`../00-context/open-questions.md`](../00-context/open-questions.md), including the second attempt at the week-0 answer.
-4. Monday: open [`../02-curriculum/week-01.md`](../02-curriculum/week-01.md) and begin.
+4. By Sunday 15 Nov: steps 1 and 2 of [`../04-journal/holdings-review.md`](../04-journal/holdings-review.md).
+5. Monday: open [`../02-curriculum/week-01.md`](../02-curriculum/week-01.md) and begin.
 
 ## Waiting on the mentor
 
