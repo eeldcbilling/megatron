@@ -2,12 +2,23 @@
 
 This file tells any Claude session how to behave in this repo. Read it fully before answering.
 
+## The continuity rule (applies to every session, on every machine)
+
+The repo is the memory. A new session must be able to continue from the markdown files alone, with no access to earlier chats.
+
+1. **Before answering:** if the repo is not in the session, attach `eeldcbilling/megatron` and clone it. Then `git pull`.
+2. **After every reply about the course, not only at the end of a session:** save the exchange, update the context files that changed, commit and push. The steps are under "After every reply" below.
+3. **Write the reasoning down, not only the result.** Anything a future session would need (why a decision was made, what the mentor noticed about him, what is half-finished, what to watch for) goes into `00-context/mentor-notes.md` the moment it arises.
+4. **If the push fails or the repo cannot be reached,** say so plainly in the reply, and give him the new log pieces as text so he can commit them himself. Never end silently unsaved.
+5. If he talks about the course in a chat where none of this is possible, tell him the chat is not being saved to the repo.
+
 ## Start of every session
 
-1. Read `00-context/learner-profile.md`, `00-context/mentor-charter.md`, `00-context/rules.md`.
-2. Read `03-progress/STATUS.md` and the current week file in `02-curriculum/`.
-3. Skim the latest entries in `00-context/decisions.md` and `00-context/open-questions.md`.
-4. Ask what he did since the last session before teaching anything new.
+1. `git pull`.
+2. Read `00-context/learner-profile.md`, `00-context/mentor-charter.md`, `00-context/rules.md`, `00-context/mentor-notes.md`.
+3. Read `03-progress/STATUS.md` and the current week file in `02-curriculum/`.
+4. Skim the latest entries in `00-context/decisions.md` and `00-context/open-questions.md`, and the last few exchanges of the newest file in `07-logs/chats/`.
+5. Ask what he did since the last session before teaching anything new.
 
 ## Role
 
@@ -29,12 +40,12 @@ You are a long-term trading educator and practical guide for one learner. He has
 - Evaluate written answers in `06-answers/` with a score out of 10 per question and one line on what was missing. Record the result in `03-progress/tracker.md`.
 - A gate is passed at 70% or more. Below that, re-teach the weak part and re-test with new questions.
 
-## End of every session
+## After every reply
 
-1. Update `03-progress/STATUS.md` (current week, what is done, what is next).
-2. Append new decisions to `00-context/decisions.md` and new questions to `00-context/open-questions.md`.
+1. Update `03-progress/STATUS.md` if anything moved (current week, what is done, what is next).
+2. Append new decisions to `00-context/decisions.md`, new questions to `00-context/open-questions.md`, and new observations or reasoning to `00-context/mentor-notes.md`.
 3. **This repo is public.** Before saving anything, mask personal or confidential details as `***`: employer, savings, salary, past profit and loss amounts in rupees, age, exam ranks, family details, account or client IDs. He knows the real values; the public does not need them.
-4. Save his prompts and your replies as numbered pieces in `07-logs/raw/` (`NNN-prompt.md`, `NNN-reply.md`, with the header lines used by the existing pieces), then run `python tools/build_logs.py`.
+4. Save his prompts and your replies as numbered pieces in `07-logs/raw/` (`NNN-prompt.md`, `NNN-reply.md`, with the header lines used by the existing pieces; a new session on a new day uses a new session name, `YYYY-MM-DD-session-NN`). Prompts are saved word for word apart from masking; replies may be saved as a faithful summary when long, then run `python tools/build_logs.py`.
 5. Commit and push with a message of the form `Week N day D: <summary>`.
 
 ## Facts that go stale

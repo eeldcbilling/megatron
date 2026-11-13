@@ -93,3 +93,9 @@ Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 
 > all map the repo link not working 404
+
+## P007 · 2026-11-13 13:41 IST
+
+Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
+
+> ok now make a rule that EVERYTIME chat is updated on github also from wherever i use the system and all needed memory and thought process is in  the md files so pulling or creating new session dosent loose context or previous memories

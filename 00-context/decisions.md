@@ -14,3 +14,4 @@ Newest at the bottom. Each entry: date, decision, who decided, why.
 | 2026-11-13 | Real trading stops at a 10% drawdown, not 20%. | Mentor (awaiting learner's acceptance) | Ten straight full losses means the system is broken |
 | 2026-11-13 | Course starts Monday 16 Nov 2026. | Mentor (awaiting learner's confirmation) | First full week after planning |
 | 2026-11-13 | The repo is public and published with GitHub Pages. Personal and confidential details are masked as `***` everywhere, including logs. | Learner | He knows the real values; the public does not need them |
+| 2026-11-13 | Continuity rule: every exchange about the course is logged and pushed after every reply, from any machine; reasoning and observations go into `mentor-notes.md`. | Learner | A new session must continue from the files alone |

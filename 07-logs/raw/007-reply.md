@@ -1,0 +1,2 @@
+<!-- session: 2026-11-13-session-01 | time: 2026-11-13 13:46 IST -->
+*Summary.* Added the continuity rule to `CLAUDE.md`: pull before answering, save and push after every reply, write reasoning into the new `00-context/mentor-notes.md`, and say so plainly whenever a push is not possible. The same rule was saved to Claude's memory so sessions outside this repo know to attach it first. Limit stated to the learner: a chat that cannot reach GitHub cannot push, and will say so instead of failing silently.

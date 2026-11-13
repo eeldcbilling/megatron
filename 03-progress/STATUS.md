@@ -1,6 +1,6 @@
 # Status
 
-**Last updated:** 13 Nov 2026 (planning session 1; repo pushed to GitHub)
+**Last updated:** 13 Nov 2026 (planning session 1; repo public, masked, continuity rule added)
 
 | | |
 |---|---|

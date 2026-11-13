@@ -21,12 +21,15 @@ Then open, in this order:
 
 When working with Claude on a new machine or a new chat, say: *"Pull megatron and resume."* The mentor instructions are in [`CLAUDE.md`](CLAUDE.md).
 
-## End of every session
+## Saving work
+
+Claude saves and pushes after every reply (the continuity rule in [`CLAUDE.md`](CLAUDE.md)). For your own work (answers, labs, journal):
 
 ```bash
-python tools/build_logs.py      # only if new chat pieces were added to 07-logs/raw
 git add -A && git commit -m "Week N day D: <what you did>" && git push
 ```
+
+Pull before you start and push when you stop, on every machine, so two machines never hold different versions.
 
 ## Map of the repo
 
