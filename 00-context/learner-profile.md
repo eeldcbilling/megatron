@@ -18,7 +18,9 @@ Everything here was stated by the learner on 13 Nov 2026. Update it when facts c
 - Worst loss: a margin short in a small-cap stock that locked in upper circuit. About 30% of the capital then in the account was lost, on three times leverage (amounts masked: ***).
 - Asked to be treated as a beginner with a blank slate. Past trades can be brought in later if relevant.
 - Until now has charted on the phone (Zerodha Kite). Wants to move everything to PC.
-- Broker accounts: Zerodha, Dhan, Groww, Fyers.
+- Broker accounts: Zerodha, Dhan, Groww, Fyers. Course account: Zerodha.
+- By his own account (13 Nov 2026), past profits and losses were both without basis: trades came from news, TV and a few charts, and most of the profit came from defence stocks during a three-year sector boom. The one lesson he takes from it: patience and preserving capital, because there is always another day to trade.
+- Holds two stocks outside the course (one consumer-durables manufacturer, one defence), bought earlier; recently sold a third defence stock at about double his cost. Quantities and prices are masked: ***.
 
 ## Capital and risk
 

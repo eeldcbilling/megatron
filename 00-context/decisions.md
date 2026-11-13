@@ -16,3 +16,8 @@ Newest at the bottom. Each entry: date, decision, who decided, why.
 | 2026-11-13 | The repo is public and published with GitHub Pages. Personal and confidential details are masked as `***` everywhere, including logs. | Learner | He knows the real values; the public does not need them |
 | 2026-11-13 | Continuity rule: every exchange about the course is logged and pushed after every reply, from any machine; reasoning and observations go into `mentor-notes.md`. | Learner | A new session must continue from the files alone |
 | 2026-11-13 | The course is named Megatron. The continuity rule triggers only when he mentions Megatron; other chats are not logged. | Learner | Keeps unrelated chats out of the public repo |
+| 2026-11-13 | Accepted: real trading stops at a 10% drawdown; no real-money F&O for the 12 weeks; no new real trades in weeks 1–2, starting after Gate 1 at ₹500 risk. | Learner | Accepted all three as proposed. Full read of `rules.md` still pending |
+| 2026-11-13 | The dedicated course account is Zerodha. Fyers is used for free API data in the labs. | Learner | Knows Kite |
+| 2026-11-13 | Videos may be in Hindi or English. | Learner | No preference |
+| 2026-11-13 | The course capital figure stays visible in the public repo. | Learner | No issue with it being public |
+| 2026-11-13 | Existing holdings stay outside the course account and outside the course rules. | Mentor | They predate the course; the mentor asked for an exit condition for each |

@@ -32,3 +32,11 @@ The mentor's running memory. Newest entries at the bottom of each section. A new
 - Did he start week 1 on Monday? If not, shift the dates in the roadmap and tracker instead of pretending.
 - Has he set up charts on PC? He has only charted on a phone so far.
 - His week-0 answer about the worst loss: look for whether he names sizing and exit-ability, or only "wrong stock".
+
+## 2026-11-13, after his first answers
+
+- His week-0 answer blamed character ("stupidity", "overconfidence") and the lack of a thesis, not size or instrument. This is the pattern to watch: he judges trades by whether the idea was good, when his damage came from structure. Expect the same framing when a rule-following trade loses ("bad trade") or a rule-breaking one wins ("good trade"). Correct it every time; week 3, question 7 is built for this.
+- He is honest that his profits were as baseless as his losses and came from riding one booming sector. That is rare and useful: no ego to dismantle about past performance. Do not let it turn into self-flagellation; "stupidity" is not an analysis.
+- His holdings outside the course are concentrated in two stocks and are several times the course capital at cost. The course rules protect the small account while the large exposure sits unmanaged. Not the course's business to run, but he has been asked for an exit condition for each. If he has none, that is the first real conversation about risk. Do not tell him to sell; ask what would make him sell.
+- He accepted the three disputed rules in one line, before reading the files. Fast agreement is not the same as acceptance. Re-confirm after he reads `rules.md`, and expect the real test in week 3 when he wants to trade and the rule says wait.
+- He will read the course files later today and may ask for modifications. Changes to study content are welcome; changes to risk rules go through `decisions.md` with a reason.

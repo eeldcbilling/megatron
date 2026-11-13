@@ -2,18 +2,16 @@
 
 Questions the mentor needs answered. Move each one to [`decisions.md`](decisions.md) once settled.
 
-## To answer before Monday 16 Nov 2026
+## Open now
 
-1. **Rules.** Do you accept [`rules.md`](rules.md) as written, including the 10% stop and no real-money F&O for 12 weeks? If you disagree with one, name it and give your reason. We settle it now, not during a trade.
-2. **The Apollo Micro Systems short.** In your own words: what one rule would have prevented that loss? Write the answer in `06-answers/week-00.md`. This is the first graded answer of the course.
-3. **Existing holdings.** Do you hold open swing positions or investments right now? They stay outside the ₹1 lakh course account, but the mentor should know they exist.
-4. **Which broker account** becomes the dedicated course account? (Suggestion: Zerodha for trading since you know Kite, Fyers for free API data in the labs.)
+1. **Existing holdings (asked 13 Nov).** He holds two stocks outside the course account, in one sector-heavy pair, worth several times the course capital at cost. For each: is it an investment or a trade? What price or event would make you sell? Write one line each. The mentor is not asking him to sell anything; a position with no exit condition is the same structural problem as the worst loss, only slower.
+2. **Week-0 answer, second attempt.** The first answer described the mistake in the entry. Name the rule about *size* and the rule about *instrument* that would have capped the loss even if the idea had been just as bad. See the evaluation in `06-answers/week-00.md`.
+3. **Read `rules.md` in full.** He accepted the three main points on 13 Nov before reading the file. Confirm after reading, or name any rule he disputes.
 
 ## To answer during month 1
 
-5. Videos in Hindi, English, or either?
-6. Can you reach office early enough to watch the open one or two days a week from January? It matters for weeks 9–10.
-7. When we reach order flow, are you willing to pay for a charting plan for one or two months (about ₹1,500 a month)?
+4. Can you reach office early enough to watch the open one or two days a week from January? It matters for weeks 9–10.
+5. When we reach order flow, are you willing to pay for a charting plan for one or two months (about ₹1,500 a month)?
 
 ## Deferred by agreement
 

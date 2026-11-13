@@ -4,7 +4,7 @@ Tick boxes as work is completed. Scores are filled in by the mentor after evalua
 
 | Week | Dates | Study | Lab | Answers pushed | Score /100 | Predictions logged | Review written |
 |---|---|---|---|---|---|---|---|
-| 0 | 13–15 Nov | n/a | n/a | [ ] | | n/a | n/a |
+| 0 | 13–15 Nov | n/a | n/a | [x] first attempt | 4/10, retake open | n/a | n/a |
 | 1 | 16–22 Nov | [ ] | [ ] | [ ] | | /5 | [ ] |
 | 2 | 23–29 Nov | [ ] | [ ] | [ ] | | /5 | [ ] |
 | 3 | 30 Nov–6 Dec | [ ] | [ ] | [ ] | | /5 | [ ] |

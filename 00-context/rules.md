@@ -1,8 +1,8 @@
 # Risk rules
 
-Proposed by the mentor on 13 Nov 2026. **Status: awaiting the learner's written acceptance** (see [`open-questions.md`](open-questions.md)). Once accepted, they change only by a dated entry in [`decisions.md`](decisions.md), written outside market hours and never during an open trade.
+Proposed by the mentor on 13 Nov 2026. **Status: the three main points (10% stop, no real-money F&O, no real trades before Gate 1) were accepted by the learner on 13 Nov 2026; his full read of this file is pending** (see [`open-questions.md`](open-questions.md)). They change only by a dated entry in [`decisions.md`](decisions.md), written outside market hours and never during an open trade.
 
-Trading capital for the course: **₹1,00,000** in one broker account used for nothing else. The second lakh stays out until the week-12 review.
+Trading capital for the course: **₹1,00,000** in the Zerodha account, used for nothing else during the course. The second lakh stays out until the week-12 review.
 
 ## Position rules
 
