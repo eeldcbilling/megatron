@@ -62,7 +62,7 @@ Full findings: `04-journal/past-trades-baseline.md`. What the mentor should carr
 - His self-description was wrong in two places. (1) He says he has suppressed greed. The record shows a position of more than three times his capital opened intraday four months after the circuit loss, on the morning he closed a losing trade. (2) He described the big short as a single act of stupidity. It was the third large intraday short in the same stock in fifteen months, and the largest by value. Treat revenge and escalation after a loss as his main live risk.
 - He remembered the cost of his recent large winner as much lower than the files show, which made the gain look about twice its real size. Not dishonesty; memory flatters. It is why the journal has to be written at the time.
 - He holds losers. One was held for almost a year to −37.5%. The current losing holding is the same pattern in progress. The interim floor he was asked to set by Sunday matters more after seeing this.
-- One of the three accounts is in another person's name. Not the mentor's business beyond this: keep it unnamed in the repo, and the course account is his own Zerodha account only.
+- One of the three accounts is under a different name. He said on 13 Nov to treat it as his own; it was already included in every figure. Keep the name out of the repo. The course account is the Zerodha account only.
 - Do not use these findings to shame him. Use them as his own evidence when a rule is tested.
 
 ## 2026-11-13, evening: his account of the post-loss leveraged trade, and the floors

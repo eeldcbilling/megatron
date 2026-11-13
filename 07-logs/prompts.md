@@ -171,3 +171,9 @@ Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 > No floor on amber and bell. Riding the profit on bell as it can be concidered as investment.
 > Amber I am thinking to wait until it comes in green first uptil then take it as investment as the results announced yesterday has shown a good movement today. Approx 8 percent today.
 > Also what did you analysed from all my trades.
+
+## P017 · 2026-11-13 17:01 IST
+
+Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
+
+> Concider the 3rd account also mine
