@@ -65,7 +65,7 @@ def main():
     index = ["# Logs", "", "| Session | Pieces |", "|---|---|"]
     for session, items in sessions.items():
         index.append(f"| [{session}](chats/{session}.md) | {len(items)} |")
-    index += ["", "All prompts in one place: [prompts.md](prompts.md).", "", "To add to the log: save new pieces in `raw/` and run `python tools/build_logs.py`."]
+    index += ["", "All prompts in one place: [prompts.md](prompts.md).", "", "To add to the log: save new pieces in `raw/` and run `python tools/build_logs.py`.", "", "[Back to home](../README.md)"]
     (ROOT / "07-logs" / "README.md").write_text("\n".join(index) + "\n", encoding="utf-8")
     print(f"{len(pieces)} pieces, {len(sessions)} session(s) written")
 

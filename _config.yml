@@ -2,5 +2,4 @@ title: Megatron
 description: A 12-week trading foundation, kept as markdown
 theme: jekyll-theme-primer
 exclude:
-  - tools
   - 05-labs/requirements.txt

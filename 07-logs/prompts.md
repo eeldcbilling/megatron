@@ -87,3 +87,9 @@ Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 
 > repo is public 
 > separate website through GitHub Pages - do it mand mark the figures and senstive figure - *** like *** and other confidential info i would know the actual data but useless for public
+
+## P006 · 2026-11-13 13:38 IST
+
+Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
+
+> all map the repo link not working 404
