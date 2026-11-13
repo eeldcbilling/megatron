@@ -1,0 +1,2 @@
+<!-- session: 2026-11-13-session-01 | time: 2026-11-13 16:32 IST -->
+*Summary.* None of the statements on the Downloads page is the right one. Asked for the equity Tradebook (Console, Reports, Tradebook) as CSV, one file per financial year since he began, and optionally the Tax P&L for the same years. Told him to attach the files in chat and not to commit them: the repo is public and the files carry his client ID. The mentor will compute statistics and store only masked, percentage-based findings in the repo.

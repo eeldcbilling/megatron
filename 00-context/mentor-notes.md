@@ -48,3 +48,8 @@ The mentor's running memory. Newest entries at the bottom of each section. A new
 - Reason for the interim floor: a 10% further fall in the losing holding alone is roughly 30% of the course capital. Asking him to protect the small account to 1% while this sits open would be teaching theatre.
 - Watch for: setting the floor so far away it can never trigger, or not placing the order. Either one is the same indecision. Ask to see the level, not the intention.
 - These two stocks are now his best teaching material for week 2. Use his own charts there.
+
+## 2026-11-13, past trades
+
+- He asked for a blank slate in the morning and by the afternoon offered his Zerodha trade history. Take it: three years of his own trades is better teaching material than any textbook example, and it gives a baseline to compare the course journal against.
+- When the tradebook arrives: compute holding period of winners against losers, how many trades had any exit before the stop-out, concentration by sector, and what the result looks like without the defence stocks. Store only percentages and counts here. Never commit the raw files (public repo, client ID inside).

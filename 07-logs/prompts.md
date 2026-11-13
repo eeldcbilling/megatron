@@ -145,3 +145,11 @@ Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
 
 > Ok keep this in memory also
+
+## P014 · 2026-11-13 16:30 IST
+
+Session: [2026-11-13-session-01](chats/2026-11-13-session-01.md)
+
+> *(Sent with a phone screenshot of Zerodha Console, Downloads page, showing the statement types: contract note, margin statement, annual global statement, invoice, ELSS statement, dividend statement. The image is not stored in the repo.)*
+>
+> What to give you for the past trades from zerodha?
