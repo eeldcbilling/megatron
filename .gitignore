@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+05-labs/**/data/
+*.parquet
+.DS_Store
+Thumbs.db

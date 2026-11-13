@@ -1,0 +1,2 @@
+<!-- session: 2026-11-13-session-01 | time: 2026-11-13 13:40 IST -->
+*Summary.* Masked employer, savings, salary, past loss amounts, age, exam ranks and family details as `***` across the repo, rewrote the git history so the earlier unmasked commits are no longer on the branch, added a GitHub Pages configuration, and added a standing masking rule to `CLAUDE.md`. The course capital figure (₹1,00,000) was kept because the risk rules need it.
