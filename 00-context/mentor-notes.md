@@ -72,3 +72,11 @@ Full findings: `04-journal/past-trades-baseline.md`. What the mentor should carr
 - "I can't go wrong" was also the thought before the circuit loss. He was paid for repeating it, which is worse for learning than being punished.
 - He did not place floors. He relabelled the loser as an investment to be held "until green" on the day it rose 8% on results. He is anchored on his purchase price. Do not let this pass at the next session: ask for the two prices first, before anything else.
 - He asked for ruthless, direct feedback with no softening and said shame works on him. Tone rule added to `CLAUDE.md`. Use his numbers as the blade; do not invent harshness beyond the evidence.
+
+## 2026-11-13, his objection to setting floors
+
+- He said quoting a floor would be "guessing the answer to a numerical without solving it". Fair objection, wrong conclusion: he treated "I cannot derive it" as "so none". Having no floor is also a number, and it is the worst one. He was given three ways to solve it (structure, ATR, money) and a time stop for the winner; they are in `04-journal/holdings-review.md`.
+- For the winner he had a target (the previous high) and no exit below. A target without a stop is half a plan. He also noticed that good results and order news are not lifting the price; he has not yet drawn the conclusion that this is information.
+- For the loser his words were "hoping it climbs back" so that the loss "limits" to a small figure. He is planning to sell into strength to book a smaller loss, with nothing underneath. Anchored on purchase price; the word to listen for is "hope".
+- He engages when given a method. He resists when given a demand without one. Lead with the method next time.
+- No levels were given by the mentor. He is to bring two numbers with the reasoning by Sunday 15 Nov; check the reasoning, not the number.

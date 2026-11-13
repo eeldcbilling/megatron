@@ -2,6 +2,20 @@
 
 These positions predate the course and are not governed by the course rules. The mentor does not say buy, hold or sell. The purpose is that each position has a written reason and a written exit. Quantities and rupee amounts are not recorded here because the repo is public; use `***` or percentages.
 
+## How to derive a floor (added 13 Nov after he said any number would be a guess)
+
+A floor is solved, not guessed. Three methods, best first. Use A, check it against B.
+
+**A. Structure (10 minutes per stock).** Open the weekly chart. Find the most recent swing low: the lowest point of the last pullback before the latest rise. The floor goes a little below it. Reasoning: that low is where buyers last took control; if price goes below it, they have failed and the uptrend argument is gone. For a stock that just jumped on results, the low of the result day is the nearest such level: if the whole jump is given back, the results story is dead.
+
+**B. Volatility (5 minutes).** Add the ATR(14) indicator on the daily chart. It is the stock's average daily range. Floor = current price minus 2 to 3 times ATR. Reasoning: a move that size against you is beyond normal noise.
+
+**C. Money (last resort).** Decide the rupees you will give back from here, divide by quantity, subtract from the price. The market does not care about this number, but it beats having none.
+
+**For a winner with a target that is not being reached:** add a time stop. "If it is not above X by date Y, I exit or cut half." Good news that fails to lift the price is information.
+
+A floor is not a prediction. It is the price at which your reason for holding has been proved wrong.
+
 ## Step 1: interim floor (do by Sunday 15 Nov)
 
 For each holding, decide the largest further loss from today's price you are willing to take on it, as a percentage. Convert it to a price. Place it as a GTT sell order, or write down here why you chose not to.
